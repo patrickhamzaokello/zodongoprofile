@@ -36,8 +36,9 @@ function Content() {
                     <section class="card-list">
                         <article class="cardb">
                             <header class="card-header">
-                                <p>May 25th 2020</p>
-                                <h2>Card tricks are fun. Hi mom!</h2>
+                                <p>#1</p>
+                                <h2>AfriGreen Sustain</h2>
+                                <p>AfriGreen Sustain promotes environmental sustainability through inclusive waste management practices</p>
                             </header>
                             <div class="card-author">
                                 <a href="#" class="author-avatar">
@@ -45,24 +46,26 @@ function Content() {
                                 </a>
 
                                 <div class="author-name">
-                                    <div class="author-name-prefix">Author</div>
-                                    Hafise Hamza
+                                    <div class="author-name-prefix">Founders</div>
+                                    Peter Rock Okwoko, Paige Balcom
                                 </div>
                             </div>
                         </article>
                        <article class="cardb">
                             <header class="card-header">
-                                <p>May 25th 2020</p>
-                                <h2>Card tricks are fun. Hi mom!</h2>
+                                <p>#2</p>
+                                <h2>Takataka Plastics</h2>
+                                <p>Transforming plastic waste into household and construction items, and creating a source of income.</p>
                             </header>
                             <div class="card-author">
                                 <a href="#" class="author-avatar">
                                     <img src={avatarimaage} alt="profile" />
                                 </a>
-
+                                
                                 <div class="author-name">
-                                    <div class="author-name-prefix">Author</div>
-                                    Hafise Hamza
+                                    <div class="author-name-prefix">Founders</div>
+                                    Peter Rock Okwoko, Paige Balcom
+                                    
                                 </div>
                             </div>
 

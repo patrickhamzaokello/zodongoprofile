@@ -296,7 +296,7 @@
         display: flex;
         position: relative;
         flex-direction: column;
-        height: 350px;
+        /* height: 350px; */
         padding: 1.5rem;
         width: 400px;
         min-width: 250px;
@@ -368,14 +368,19 @@
         stroke-linecap: round;
     }
 
+    .author-name {
+        font-size: 10px;
+    }
+
     .author-name-prefix {
         font-style: normal;
         font-weight: 700;
+        font-size: 15px;
         color: #7a7a8c
     }
 
     .card-header h2:hover {
-        background: linear-gradient(90deg, #ff8a00, #e52ee5);
+        background: linear-gradient(90deg, #00aa25, #d9ff00);
         text-shadow: none;
         background-clip: text;
         -webkit-background-clip: text;
