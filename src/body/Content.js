@@ -42,7 +42,7 @@ function Content() {
                             </header>
                             <div class="card-author">
                                 <a href="#" class="author-avatar">
-                                    <img src={avatarimaage} alt="profile" />
+                                    <img src="https://scontent.febb3-1.fna.fbcdn.net/v/t1.0-9/101600460_3113409055364122_7654041207948967936_n.jpg?_nc_cat=106&_nc_sid=09cbfe&_nc_eui2=AeEsKjxvx1lonPN8-Ygao5u8FOnWYro12R8U6dZiujXZH3HqJ-b1Hy6T3eRQd9hmkLfNQ_ATomRq6Chn6d41ufB2&_nc_ohc=O3fjxE9HPoYAX8x_7nf&_nc_ht=scontent.febb3-1.fna&oh=8a37f8ddb638076edc07d7594ee524ae&oe=5F86DCEF" alt="profile" />
                                 </a>
 
                                 <div class="author-name">
@@ -59,7 +59,7 @@ function Content() {
                             </header>
                             <div class="card-author">
                                 <a href="#" class="author-avatar">
-                                    <img src={avatarimaage} alt="profile" />
+                                    <img src="https://scontent.febb3-1.fna.fbcdn.net/v/t1.0-9/101600460_3113409055364122_7654041207948967936_n.jpg?_nc_cat=106&_nc_sid=09cbfe&_nc_eui2=AeEsKjxvx1lonPN8-Ygao5u8FOnWYro12R8U6dZiujXZH3HqJ-b1Hy6T3eRQd9hmkLfNQ_ATomRq6Chn6d41ufB2&_nc_ohc=O3fjxE9HPoYAX8x_7nf&_nc_ht=scontent.febb3-1.fna&oh=8a37f8ddb638076edc07d7594ee524ae&oe=5F86DCEF" alt="profile" />
                                 </a>
                                 
                                 <div class="author-name">
